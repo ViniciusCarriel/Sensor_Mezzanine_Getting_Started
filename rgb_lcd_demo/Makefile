@@ -1,4 +1,4 @@
-LDFLAGS=-libupm-jhd1313m1
+LDFLAGS=-lupm-jhd1313m1
 CXXFLAGS=-Wall -g
 TARGETS=rgb_lcd_demo
 
